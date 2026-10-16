@@ -1,0 +1,216 @@
+
+=== Running test case 1/27: A-n32-k5.vrp ===
+  Vehicles (K): 5
+  Budget: 30
+  Tests remaining: 26
+Cycle 1 → Loading graph...
+Graph loaded. Starting evaluate_metrics...
+Cycle 1: ΔQ = -0.00% | Base = 33 | Improved = 35
+
+=== Running test case 2/27: A-n33-k5.vrp ===
+  Vehicles (K): 5
+  Budget: 30
+  Tests remaining: 25
+Cycle 1 → Loading graph...
+Graph loaded. Starting evaluate_metrics...
+Cycle 1: ΔQ = -0.00% | Base = 30 | Improved = 30
+
+=== Running test case 3/27: A-n33-k6.vrp ===
+  Vehicles (K): 6
+  Budget: 30
+  Tests remaining: 24
+Cycle 1 → Loading graph...
+Graph loaded. Starting evaluate_metrics...
+Cycle 1: ΔQ = 0.00% | Base = 57 | Improved = 54
+
+=== Running test case 4/27: A-n34-k5.vrp ===
+  Vehicles (K): 5
+  Budget: 30
+  Tests remaining: 23
+Cycle 1 → Loading graph...
+Graph loaded. Starting evaluate_metrics...
+Cycle 1: ΔQ = 0.00% | Base = 32 | Improved = 29
+
+=== Running test case 5/27: A-n36-k5.vrp ===
+  Vehicles (K): 5
+  Budget: 30
+  Tests remaining: 22
+Cycle 1 → Loading graph...
+Graph loaded. Starting evaluate_metrics...
+Cycle 1: ΔQ = -0.00% | Base = 36 | Improved = 39
+
+=== Running test case 6/27: A-n37-k5.vrp ===
+  Vehicles (K): 5
+  Budget: 30
+  Tests remaining: 21
+Cycle 1 → Loading graph...
+Graph loaded. Starting evaluate_metrics...
+Cycle 1: ΔQ = 0.00% | Base = 26 | Improved = 26
+
+=== Running test case 7/27: A-n37-k6.vrp ===
+  Vehicles (K): 6
+  Budget: 30
+  Tests remaining: 20
+Cycle 1 → Loading graph...
+Graph loaded. Starting evaluate_metrics...
+Cycle 1: ΔQ = 0.00% | Base = 35 | Improved = 35
+
+=== Running test case 8/27: A-n38-k5.vrp ===
+  Vehicles (K): 5
+  Budget: 30
+  Tests remaining: 19
+Cycle 1 → Loading graph...
+Graph loaded. Starting evaluate_metrics...
+Cycle 1: ΔQ = -0.00% | Base = 27 | Improved = 27
+
+=== Running test case 9/27: A-n39-k5.vrp ===
+  Vehicles (K): 5
+  Budget: 30
+  Tests remaining: 18
+Cycle 1 → Loading graph...
+Graph loaded. Starting evaluate_metrics...
+Cycle 1: ΔQ = 0.00% | Base = 32 | Improved = 32
+
+=== Running test case 10/27: A-n39-k6.vrp ===
+  Vehicles (K): 6
+  Budget: 30
+  Tests remaining: 17
+Cycle 1 → Loading graph...
+Graph loaded. Starting evaluate_metrics...
+Cycle 1: ΔQ = 0.00% | Base = 30 | Improved = 32
+
+=== Running test case 11/27: A-n44-k6.vrp ===
+  Vehicles (K): 6
+  Budget: 30
+  Tests remaining: 16
+Cycle 1 → Loading graph...
+Graph loaded. Starting evaluate_metrics...
+Cycle 1: ΔQ = -0.00% | Base = 34 | Improved = 34
+
+=== Running test case 12/27: A-n45-k6.vrp ===
+  Vehicles (K): 6
+  Budget: 30
+  Tests remaining: 15
+Cycle 1 → Loading graph...
+Graph loaded. Starting evaluate_metrics...
+Cycle 1: ΔQ = -0.00% | Base = 32 | Improved = 32
+
+=== Running test case 13/27: A-n45-k7.vrp ===
+  Vehicles (K): 7
+  Budget: 30
+  Tests remaining: 14
+Cycle 1 → Loading graph...
+Graph loaded. Starting evaluate_metrics...
+Cycle 1: ΔQ = 0.00% | Base = 34 | Improved = 34
+
+=== Running test case 14/27: A-n46-k7.vrp ===
+  Vehicles (K): 7
+  Budget: 30
+  Tests remaining: 13
+Cycle 1 → Loading graph...
+Graph loaded. Starting evaluate_metrics...
+Cycle 1: ΔQ = 0.00% | Base = 30 | Improved = 31
+
+=== Running test case 15/27: A-n48-k7.vrp ===
+  Vehicles (K): 7
+  Budget: 30
+  Tests remaining: 12
+Cycle 1 → Loading graph...
+Graph loaded. Starting evaluate_metrics...
+Cycle 1: ΔQ = -0.00% | Base = 32 | Improved = 32
+
+=== Running test case 16/27: A-n53-k7.vrp ===
+  Vehicles (K): 7
+  Budget: 30
+  Tests remaining: 11
+Cycle 1 → Loading graph...
+Graph loaded. Starting evaluate_metrics...
+Cycle 1: ΔQ = 0.00% | Base = 32 | Improved = 32
+
+=== Running test case 17/27: A-n54-k7.vrp ===
+  Vehicles (K): 7
+  Budget: 30
+  Tests remaining: 10
+Cycle 1 → Loading graph...
+Graph loaded. Starting evaluate_metrics...
+Cycle 1: ΔQ = -0.00% | Base = 35 | Improved = 35
+
+=== Running test case 18/27: A-n55-k9.vrp ===
+  Vehicles (K): 9
+  Budget: 30
+  Tests remaining: 9
+Cycle 1 → Loading graph...
+Graph loaded. Starting evaluate_metrics...
+Cycle 1: ΔQ = -0.00% | Base = 27 | Improved = 27
+
+=== Running test case 19/27: A-n60-k9.vrp ===
+  Vehicles (K): 9
+  Budget: 30
+  Tests remaining: 8
+Cycle 1 → Loading graph...
+Graph loaded. Starting evaluate_metrics...
+Cycle 1: ΔQ = 0.00% | Base = 39 | Improved = 39
+
+=== Running test case 20/27: A-n61-k9.vrp ===
+  Vehicles (K): 9
+  Budget: 30
+  Tests remaining: 7
+Cycle 1 → Loading graph...
+Graph loaded. Starting evaluate_metrics...
+Cycle 1: ΔQ = 0.00% | Base = 24 | Improved = 24
+
+=== Running test case 21/27: A-n62-k8.vrp ===
+  Vehicles (K): 8
+  Budget: 30
+  Tests remaining: 6
+Cycle 1 → Loading graph...
+Graph loaded. Starting evaluate_metrics...
+Cycle 1: ΔQ = 0.00% | Base = 35 | Improved = 34
+
+=== Running test case 22/27: A-n63-k10.vrp ===
+  Vehicles (K): 10
+  Budget: 30
+  Tests remaining: 5
+Cycle 1 → Loading graph...
+Graph loaded. Starting evaluate_metrics...
+Cycle 1: ΔQ = -0.00% | Base = 62 | Improved = 62
+
+=== Running test case 23/27: A-n63-k9.vrp ===
+  Vehicles (K): 9
+  Budget: 30
+  Tests remaining: 4
+Cycle 1 → Loading graph...
+Graph loaded. Starting evaluate_metrics...
+Cycle 1: ΔQ = -0.00% | Base = 40 | Improved = 40
+
+=== Running test case 24/27: A-n64-k9.vrp ===
+  Vehicles (K): 9
+  Budget: 30
+  Tests remaining: 3
+Cycle 1 → Loading graph...
+Graph loaded. Starting evaluate_metrics...
+Cycle 1: ΔQ = -0.00% | Base = 36 | Improved = 36
+
+=== Running test case 25/27: A-n65-k9.vrp ===
+  Vehicles (K): 9
+  Budget: 30
+  Tests remaining: 2
+Cycle 1 → Loading graph...
+Graph loaded. Starting evaluate_metrics...
+Cycle 1: ΔQ = 0.00% | Base = 30 | Improved = 30
+
+=== Running test case 26/27: A-n69-k9.vrp ===
+  Vehicles (K): 9
+  Budget: 30
+  Tests remaining: 1
+Cycle 1 → Loading graph...
+Graph loaded. Starting evaluate_metrics...
+Cycle 1: ΔQ = -0.00% | Base = 23 | Improved = 23
+
+=== Running test case 27/27: A-n80-k10.vrp ===
+  Vehicles (K): 10
+  Budget: 30
+  Tests remaining: 0
+Cycle 1 → Loading graph...
+Graph loaded. Starting evaluate_metrics...
+Cycle 1: ΔQ = 0.00% | Base = 41 | Improved = 41
